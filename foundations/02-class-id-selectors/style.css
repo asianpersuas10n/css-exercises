@@ -1,0 +1,16 @@
+.oddRows {
+    background-color: #e62194d3;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.sizeForThree {
+    font-size: 24px;
+}
+#idOne {
+    color: #1513a3; 
+    font-size: 36px;
+}
+#idTwo {
+    background-color: #6fd41c;
+    font-weight: 700;
+    font-size: 24px;
+}
